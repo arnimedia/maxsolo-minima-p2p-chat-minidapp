@@ -10,7 +10,7 @@ To use MaxSolo, you must add your Maxima Contacts using the MaxContacts MiniDapp
 
 [Web preview](https://minidapps.minima.global/)
 
-![MaxSolo preview](maxsolo_desktop.mp4)
+https://github.com/arnimedia/maxsolo-minima-p2p-chat-minidapp/blob/master/maxsolo_desktop.mp4
 
 ### Run it
 
