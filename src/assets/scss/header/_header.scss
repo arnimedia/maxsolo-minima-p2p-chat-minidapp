@@ -1,0 +1,20 @@
+/*-------------------------
+    Header Styles
+-------------------------*/
+
+.header-right-button{
+    transition: all 0.4s ease;
+    width: 28px;
+    height: 28px;
+    padding: 5px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    @media #{$lg-up-device} {
+        &:hover{
+            background: rgb(32, 92, 197);
+        }
+      }
+}
