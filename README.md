@@ -2,7 +2,7 @@
 MaxSolo is an encrypted, peer-to-peer messaging application, which uses Minima’s information transfer layer, Maxima. Learn more about Maxima below.
 ---
 
-https://github.com/arnimedia/maxsolo-minima-p2p-chat-minidapp/assets/11820778/d124b996-d40d-49e8-a013-3117e1377e99
+https://github.com/arnimedia/maxsolo-minima-p2p-chat-minidapp/assets/11820778/ab955ca1-aacb-4ddb-8439-d0f87b5e0d77
 
 Using MaxSolo you can:
 
