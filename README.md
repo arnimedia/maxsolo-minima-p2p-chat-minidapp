@@ -8,7 +8,7 @@ Using MaxSolo you can:
 
 To use MaxSolo, you must add your Maxima Contacts using the MaxContacts MiniDapp.
 
-[Web preview](https://minidapps.minima.global/)
+[Download MiniDapp MaxSolo](https://minidapps.minima.global/)
 
 https://user-images.githubusercontent.com/11820778/235644482-c1803d1c-a1e6-40bd-b66a-c7ca5c3db799.mp4
 
