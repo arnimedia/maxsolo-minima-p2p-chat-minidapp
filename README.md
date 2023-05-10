@@ -2,6 +2,9 @@
 MaxSolo is an encrypted, peer-to-peer messaging application, which uses Minima’s information transfer layer, Maxima. Learn more about Maxima below.
 ---
 
+To run MaxSolo you need to install Minima Node, please see here:
+https://www.minima.global/run-a-node
+
 ![Preview](maxsolo_preview.gif)
 
 Using MaxSolo you can:
